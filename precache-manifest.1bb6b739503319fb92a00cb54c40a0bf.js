@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "daabafef67f27a9f3692a0e590fe336c",
+    "revision": "6e865687d9019324a53a5867ee9a6588",
     "url": "/React-Explify/index.html"
   },
   {
-    "revision": "26d18e238683ab1f30dc",
+    "revision": "0eb4e8d9d2c0ab9a33fb",
     "url": "/React-Explify/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "8147c1447457cd08480f",
-    "url": "/React-Explify/static/css/main.60919cee.chunk.css"
+    "revision": "41173190ecf42dd0b85c",
+    "url": "/React-Explify/static/css/main.2154be6d.chunk.css"
   },
   {
-    "revision": "26d18e238683ab1f30dc",
-    "url": "/React-Explify/static/js/2.ee0fc895.chunk.js"
+    "revision": "0eb4e8d9d2c0ab9a33fb",
+    "url": "/React-Explify/static/js/2.43c45e26.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/React-Explify/static/js/2.ee0fc895.chunk.js.LICENSE.txt"
+    "url": "/React-Explify/static/js/2.43c45e26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8147c1447457cd08480f",
-    "url": "/React-Explify/static/js/main.b25095ea.chunk.js"
+    "revision": "41173190ecf42dd0b85c",
+    "url": "/React-Explify/static/js/main.c5290b61.chunk.js"
   },
   {
     "revision": "c0d9f7c1905e583adfcd",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8f338c7b1bf7e4e736c7173228849b8a",
     "url": "/React-Explify/static/media/intro-bg.8f338c7b.jpg"
+  },
+  {
+    "revision": "75eb7c4e5d58a0a3f0d387b9bc44e080",
+    "url": "/React-Explify/static/media/signup-image.75eb7c4e.jpg"
   },
   {
     "revision": "162cfa5bfd1493b7686f8526c1ecec1b",
