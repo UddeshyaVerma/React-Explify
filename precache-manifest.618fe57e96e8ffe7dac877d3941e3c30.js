@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "46d7647f2782bce39f86bf8e3b070cb8",
+    "revision": "6de083391bece780e4e69d9935224721",
     "url": "/React-Explify/index.html"
   },
   {
-    "revision": "91b136697c51a411ebf0",
+    "revision": "709fc13514d8c4f9608d",
     "url": "/React-Explify/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "4b8504e240ede5659b39",
-    "url": "/React-Explify/static/css/main.0c51c22d.chunk.css"
+    "revision": "7d77e903b402981f935f",
+    "url": "/React-Explify/static/css/main.e7fe4cd7.chunk.css"
   },
   {
-    "revision": "91b136697c51a411ebf0",
-    "url": "/React-Explify/static/js/2.246d1339.chunk.js"
+    "revision": "709fc13514d8c4f9608d",
+    "url": "/React-Explify/static/js/2.76bbad57.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/React-Explify/static/js/2.246d1339.chunk.js.LICENSE.txt"
+    "url": "/React-Explify/static/js/2.76bbad57.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4b8504e240ede5659b39",
-    "url": "/React-Explify/static/js/main.99e651b7.chunk.js"
+    "revision": "7d77e903b402981f935f",
+    "url": "/React-Explify/static/js/main.c26be418.chunk.js"
   },
   {
     "revision": "c0d9f7c1905e583adfcd",
