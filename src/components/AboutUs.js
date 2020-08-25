@@ -4,6 +4,7 @@ import about from "../img/about-img.png";
 function AboutUs() {
   return (
     <section id="about">
+          <h2 style={{textAlign:"center",marginBottom:"15px"}}>About Us</h2>
       <div className="container">
         <div className="row">
           <div className="col-lg-5 col-md-6">
@@ -14,10 +15,10 @@ function AboutUs() {
 
           <div className="col-lg-7 col-md-6">
             <div className="about-content">
-              <h2>About Us</h2>
+              
               <h3>
                 Welcome to EXPLIFY, a gateway to amplify your expertise in an
-                effictive way!
+                effective way!
               </h3>
               <p>
                 Here is a social network that renders valuable resources and

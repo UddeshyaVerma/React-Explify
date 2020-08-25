@@ -1,15 +1,18 @@
 import React from "react";
 import { Nav, Navbar} from "react-bootstrap";
 import { Link} from "react-scroll";
+import {Link as Links} from 'react-router-dom'
+
+
 function NavBars() {
   return (
     <div class="container">
       <Navbar bg="light" expand="lg" fixed="top">
         <div class="logo float-left">
           <h1 class="text-light">
-            <a href="#intro" class="scrollto">
+            <Links to='/React-Explify'>
               <span>Explify</span>
-            </a>
+              </Links>
           </h1>
           <a href="#header" class="scrollto"></a>
         </div>
@@ -50,18 +53,19 @@ function NavBars() {
               Team
             </Link>
             <Link
-              to="#link"
+              to=""
               activeClass="active"
               style={styles}
               spy={true}
               smooth={true}
               offset={-70}
               duration={500}
-            >
+            ><Links to='/signup'>
               SignUp
+              </Links>
             </Link>
             <Link
-              to="#link"
+              to=""
               activeClass="active"
               style={styles}
               spy={true}
@@ -69,7 +73,9 @@ function NavBars() {
               offset={-70}
               duration={500}
             >
+              <Links to='/signin'>
               SignIn
+              </Links>
             </Link>
             <Link
               to="footer"

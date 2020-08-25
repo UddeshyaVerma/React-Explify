@@ -16,7 +16,7 @@ function WhyUs() {
         <div className="row">
           <div className="col-lg-6">
             <div className="why-us-img">
-              <img src={whyus} alt="zxccvm" className="img-fluid" />
+              <img src={whyus} alt="zxccvm" style={{width:"80%",marginLeft:"60px"}} className="img-fluid" />
             </div>
           </div>
 

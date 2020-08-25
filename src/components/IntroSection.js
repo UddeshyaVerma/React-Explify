@@ -1,5 +1,6 @@
 import React from "react";
 import bg from '../img/bg.png'
+import {Link} from 'react-router-dom'
 function IntroSection() {
   return (
     <section id="intro" className="clearfix">
@@ -14,9 +15,9 @@ function IntroSection() {
               <span>Amplify.Expertise</span>
             </h2>
             <div>
-              <a href="#about" className="btn-get-started scrollto">
+              <Link to="/dashboard" className="btn-get-started scrollto">
                 Get Started
-              </a>
+              </Link>
             </div>
           </div>
 
@@ -24,7 +25,7 @@ function IntroSection() {
             className="col-md-6 intro-img order-md-last order-first"
             style={{width: "100%"}}
           >
-            <img src={bg} alt="backgroundImage" className="responsive" />
+            <img src={bg} alt="backgroundImage" style={{marginTop:"25px"}} className="responsive" />
           </div>
         </div>
       </div>

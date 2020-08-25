@@ -7,8 +7,10 @@ function Team() {
         <div className="section-header">
           <h3>Team</h3>
           <p>
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque
+            "Teamwork is the ability to work together toward a common vision.
+            The ability to direct individual accomplishments toward
+            organizational objectives. It is the fuel that allows common people
+            to attain uncommon results."
           </p>
         </div>
 
@@ -25,14 +27,14 @@ function Team() {
                   <h4>Walter White</h4>
                   <span>Chief Executive Officer</span>
                   <div className="social">
-                    <a href=""style={{padding:"10px"}}>
+                    <a href="" style={{ padding: "10px" }}>
                       <FaFacebookF />
                     </a>
-                    <a href=""style={{padding:"10px"}}>
+                    <a href="" style={{ padding: "10px" }}>
                       <FaGithub />
                     </a>
 
-                    <a href=""style={{padding:"10px"}}>
+                    <a href="" style={{ padding: "10px" }}>
                       <FaLinkedinIn />
                     </a>
                   </div>
@@ -53,14 +55,14 @@ function Team() {
                   <h4>Sarah Jhonson</h4>
                   <span>Product Manager</span>
                   <div className="social">
-                    <a href=""style={{padding:"10px"}}>
+                    <a href="" style={{ padding: "10px" }}>
                       <FaFacebookF />
                     </a>
-                    <a href=""style={{padding:"10px"}}>
+                    <a href="" style={{ padding: "10px" }}>
                       <FaGithub />
                     </a>
 
-                    <a href=""style={{padding:"10px"}}>
+                    <a href="" style={{ padding: "10px" }}>
                       <FaLinkedinIn />
                     </a>
                   </div>
@@ -81,14 +83,14 @@ function Team() {
                   <h4>William Anderson</h4>
                   <span>CTO</span>
                   <div className="social">
-                    <a href=""style={{padding:"10px"}}>
+                    <a href="" style={{ padding: "10px" }}>
                       <FaFacebookF />
                     </a>
-                    <a href=""style={{padding:"10px"}}>
+                    <a href="" style={{ padding: "10px" }}>
                       <FaGithub />
                     </a>
 
-                    <a href=""style={{padding:"10px"}}>
+                    <a href="" style={{ padding: "10px" }}>
                       <FaLinkedinIn />
                     </a>
                   </div>
@@ -109,14 +111,14 @@ function Team() {
                   <h4>Amanda Jepson</h4>
                   <span>Accountant</span>
                   <div className="social">
-                    <a href=""style={{padding:"10px"}}>
+                    <a href="" style={{ padding: "10px" }}>
                       <FaFacebookF />
                     </a>
-                    <a href=""style={{padding:"10px"}}>
+                    <a href="" style={{ padding: "10px" }}>
                       <FaGithub />
                     </a>
-                    
-                    <a href=""style={{padding:"10px"}}>
+
+                    <a href="" style={{ padding: "10px" }}>
                       <FaLinkedinIn />
                     </a>
                   </div>
