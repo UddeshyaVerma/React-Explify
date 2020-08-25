@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Explify/static/css/main.21dc5bf8.chunk.css",
+    "main.css": "/React-Explify/static/css/main.2604a256.chunk.css",
     "main.js": "/React-Explify/static/js/main.8f7f3d3d.chunk.js",
     "main.js.map": "/React-Explify/static/js/main.8f7f3d3d.chunk.js.map",
     "runtime-main.js": "/React-Explify/static/js/runtime-main.75d18a59.js",
@@ -9,10 +9,10 @@
     "static/js/2.76bbad57.chunk.js": "/React-Explify/static/js/2.76bbad57.chunk.js",
     "static/js/2.76bbad57.chunk.js.map": "/React-Explify/static/js/2.76bbad57.chunk.js.map",
     "index.html": "/React-Explify/index.html",
-    "precache-manifest.2f74a0c6f26888977c9ad5aa4827077b.js": "/React-Explify/precache-manifest.2f74a0c6f26888977c9ad5aa4827077b.js",
+    "precache-manifest.b7478264ea3cc42ce78eab35198fa957.js": "/React-Explify/precache-manifest.b7478264ea3cc42ce78eab35198fa957.js",
     "service-worker.js": "/React-Explify/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/React-Explify/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.21dc5bf8.chunk.css.map": "/React-Explify/static/css/main.21dc5bf8.chunk.css.map",
+    "static/css/main.2604a256.chunk.css.map": "/React-Explify/static/css/main.2604a256.chunk.css.map",
     "static/js/2.76bbad57.chunk.js.LICENSE.txt": "/React-Explify/static/js/2.76bbad57.chunk.js.LICENSE.txt",
     "static/media/App.css": "/React-Explify/static/media/why-us.f2649ec1.jpg",
     "static/media/arish.jfif": "/React-Explify/static/media/arish.1a1154c8.jfif",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.75d18a59.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.76bbad57.chunk.js",
-    "static/css/main.21dc5bf8.chunk.css",
+    "static/css/main.2604a256.chunk.css",
     "static/js/main.8f7f3d3d.chunk.js"
   ]
 }
