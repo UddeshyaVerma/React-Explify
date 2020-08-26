@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/React-Explify/static/css/main.13faf5e8.chunk.css",
-    "main.js": "/React-Explify/static/js/main.e0c58032.chunk.js",
-    "main.js.map": "/React-Explify/static/js/main.e0c58032.chunk.js.map",
+    "main.css": "/React-Explify/static/css/main.0dc43f4f.chunk.css",
+    "main.js": "/React-Explify/static/js/main.2b37a28d.chunk.js",
+    "main.js.map": "/React-Explify/static/js/main.2b37a28d.chunk.js.map",
     "runtime-main.js": "/React-Explify/static/js/runtime-main.75d18a59.js",
     "runtime-main.js.map": "/React-Explify/static/js/runtime-main.75d18a59.js.map",
     "static/css/2.af3c1da9.chunk.css": "/React-Explify/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.1173926c.chunk.js": "/React-Explify/static/js/2.1173926c.chunk.js",
-    "static/js/2.1173926c.chunk.js.map": "/React-Explify/static/js/2.1173926c.chunk.js.map",
+    "static/js/2.a1b3ec70.chunk.js": "/React-Explify/static/js/2.a1b3ec70.chunk.js",
+    "static/js/2.a1b3ec70.chunk.js.map": "/React-Explify/static/js/2.a1b3ec70.chunk.js.map",
     "index.html": "/React-Explify/index.html",
-    "precache-manifest.fc2802b355976d663983447b53f976a6.js": "/React-Explify/precache-manifest.fc2802b355976d663983447b53f976a6.js",
+    "precache-manifest.cebfd4343f952f56aada8452160e1be9.js": "/React-Explify/precache-manifest.cebfd4343f952f56aada8452160e1be9.js",
     "service-worker.js": "/React-Explify/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/React-Explify/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.13faf5e8.chunk.css.map": "/React-Explify/static/css/main.13faf5e8.chunk.css.map",
-    "static/js/2.1173926c.chunk.js.LICENSE.txt": "/React-Explify/static/js/2.1173926c.chunk.js.LICENSE.txt",
+    "static/css/main.0dc43f4f.chunk.css.map": "/React-Explify/static/css/main.0dc43f4f.chunk.css.map",
+    "static/js/2.a1b3ec70.chunk.js.LICENSE.txt": "/React-Explify/static/js/2.a1b3ec70.chunk.js.LICENSE.txt",
     "static/media/App.css": "/React-Explify/static/media/why-us.f2649ec1.jpg",
     "static/media/arish.jfif": "/React-Explify/static/media/arish.1a1154c8.jfif",
     "static/media/bg.png": "/React-Explify/static/media/bg.b79a234f.png",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.75d18a59.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.1173926c.chunk.js",
-    "static/css/main.13faf5e8.chunk.css",
-    "static/js/main.e0c58032.chunk.js"
+    "static/js/2.a1b3ec70.chunk.js",
+    "static/css/main.0dc43f4f.chunk.css",
+    "static/js/main.2b37a28d.chunk.js"
   ]
 }
