@@ -9,10 +9,11 @@ body{
   width: 100%;
   position: relative;
   display: flex;
+  padding-top: 50px; 
   
 }
 .SearchBar{
-  /* margin-bottom: 40px; */
+   
 }
 
 
@@ -48,7 +49,7 @@ body{
   width:500px ;
   
   margin-left: 600px;
-  margin-top: 40px;
+  margin-top: 80px; 
   transform: translate(-50%, -50%);
   
 }
@@ -101,7 +102,8 @@ Link{
 	text-align: center;
 	width: 100%;
 }.latest-products {
-	margin-top: 100px;
+  margin-top: 100px;
+ 
 }
 
 .latest-products .section-heading a {
@@ -114,13 +116,42 @@ Link{
 }
 
 .product-item {
-	border: 1px solid #eee;
-	margin-bottom: 30px;
+  border: 3px solid #eee; 
+  
+  margin-bottom: 30px;
+  transition: 1s ease;
+  border-radius: 40px;
+  
 }
+.product-item:hover{
+  -webkit-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  transform: scale(0.9);
+  transition: 1s ease;
+ 
+  
+}
+.shrink img {
+  transition: 1s ease;
+  }
+  
+  .shrink img:hover{
+  -webkit-transform: scale(0.8);
+  -ms-transform: scale(0.8);
+  transform: scale(0.8);
+  transition: 1s ease;
+  }
 
 .product-item .down-content {
-	padding: 30px;
-	position: relative;
+	text-align: center;
+	
+}
+.StudentH{
+  font-size:20px;
+  margin-top:8px
+}
+.StudentP{
+  font-size:17px;
 }
 
 .product-item img {
@@ -1672,6 +1703,10 @@ h6 {
   color: #413e66;
   transition: 0.3s;
 }
+.container-footer{
+  background-color: #413e66;
+  
+}
 
 #footer .footer-top .form button[type="submit"]:hover {
   background: #0a98c0;
@@ -1866,9 +1901,196 @@ h6 {
 .ratio-4-3{
  width:400px;
  height:250px;
+ border-radius: 40px;
 }
 .stars{
   color:	#FFFF33;
   size: 50px;
 }
+/* ////////////////getstarted */
+.CardBox p {
 
+  font-size: 17px;
+  margin-bottom: 25px;
+  color: #626262;
+
+}
+
+.CardBox {
+
+  color: #626262;
+
+}
+
+.section-intro-fullscreen {
+
+  color: #fff;
+  text-align: center;
+
+}
+
+.GContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+}
+
+.CardBox {
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 20px;
+  color: #626262;
+  display: flex;
+  flex-basis: 45%;
+  flex-direction: column;
+  margin: 20px 50px;
+  max-width: 388px;
+  padding: 35px 25px;
+}
+
+.CardBox h2 {
+  font-size: 30px;
+  font-weight: 300;
+  text-align: center;
+  line-height: 28px;
+  margin-bottom: 22px;
+}
+
+.CardBox p {
+  font-size: 17px;
+  text-align: center;
+  margin-bottom: 25px;
+  color: #626262;
+}
+
+.CardBox a {
+  background-color: #1bb1dc;
+  color: #fff;
+  display: inline-block;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  margin: auto;
+  min-width: 150px;
+  border-radius: 8px;
+  padding: 15px;
+  margin-top: auto;
+  justify-self: end;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+
+.CardBox a:hover {
+  background-color: #0a98c0;
+  transition: 0.5s;
+}
+
+.GBanner-intro {
+  background: url("../src/img/trial.jpg") center top no-repeat;
+  background-size: auto;
+  background-size: cover;
+}
+
+.GBanner {
+  top: 0;
+}
+
+.GBanner {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 100vh;
+  overflow: hidden;
+  padding: 0;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+
+
+
+
+
+.one-whole {
+  margin-top: 0;
+}
+
+.org {
+  color: #1bb1dc;
+  height: auto;
+  width: 60px;
+  margin: 5px auto;
+}
+
+.Gfooter {
+  color: black;
+  position: absolute;
+  top: 1;
+  bottom: 0;
+  background-color: rgba(255, 255, 255, 0.9);
+  left: 0;
+  right: 0;
+
+}
+
+.Glogo {
+  position: absolute;
+  color: black;
+  left: 0;
+  right: 0;
+}
+
+@media (min-width: 626px) {
+  .hoverImages {
+      -webkit-transition: margin 0.5s ease-out;
+      -moz-transition: margin 0.5s ease-out;
+      -o-transition: margin 0.5s ease-out;
+  }
+
+  .hoverImages:hover {
+      margin-top: 5px;
+  }
+}
+
+@media (max-width: 625px) {
+  .GContainer {
+      display: block;
+      justify-content: center;
+      align-items: center;
+      position: absolute;
+      bottom: 0px;
+      right: 0px;
+      left: 0px;
+      top: 80px;
+
+  }
+
+  .CardBox {
+      min-width: 170px;
+  }
+
+  .GBanner {
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+      height: 140vh;
+      overflow: visible;
+      padding: 0;
+      position: relative;
+      text-align: center;
+      width: 100%;
+  }
+
+
+
+}

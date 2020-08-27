@@ -14,6 +14,7 @@ import AdminDashboard from "./components/AdminDashboard";
 import StudentList from "./components/StudentList";
 import SignUp from "./components/SignUp";
 import SignIn from "./components/SignIn";
+import GetStarted from "./components/GetStarted";
 const Homepage = () => {
   return (
     <div className="App">
@@ -35,10 +36,11 @@ function App() {
       <NavBars />
       <Switch>
       <Route exact path="/React-Explify"><Homepage /></Route>
-        <Route exact path="/dashboard"><AdminDashboard/></Route>
-        <Route exact path="/dashboard/students"><StudentList/></Route>
-        <Route exact path="/signup"><SignUp/></Route>
-        <Route exact path="/signin"><SignIn/></Route>
+        <Route exact path="/React-Explify/dashboard"><AdminDashboard/></Route>
+        <Route exact path="/React-Explify/dashboard/students"><StudentList/></Route>
+        <Route exact path="/React-Explify/signup"><SignUp/></Route>
+        <Route exact path="/React-Explify/signin"><SignIn/></Route>
+        <Route exact path="/React-Explify/GetStarted"><GetStarted/></Route>
       
       </Switch>
     </Router>

@@ -7,15 +7,13 @@ function IntroSection() {
       <div className="container d-flex h-100">
         <div className="row justify-content-center align-self-center">
           <div className="col-md-6 intro-info order-md-first order-last">
-            <h2>
-              EXPLIFY
-              </h2>
+            
               <h2>
               <span>Let's</span><br/>
               <span>Amplify.Expertise</span>
             </h2>
             <div>
-              <Link to="/dashboard" className="btn-get-started scrollto">
+              <Link to="/React-Explify/GetStarted" className="btn-get-started scrollto" >
                 Get Started
               </Link>
             </div>

@@ -34,7 +34,7 @@ function SignUp() {
                         </div>
                         <div class="form-group form-button">
                             <input type="submit" name="signup" id="signup" class="form-submit" value="Register"/>
-                            <Link to="/signin" className="signup-image-link" style={{color:"#A9A9A9"}} >I am already member</Link>
+                            <Link to="/React-Explify/signin" className="signup-image-link" style={{color:"#A9A9A9"}} >I am already member</Link>
                         </div>
                        
                     </form>

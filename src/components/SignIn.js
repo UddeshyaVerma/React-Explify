@@ -1,9 +1,14 @@
 import React from 'react'
 import signin from '../img/signin-image.jpg'
 import '../components/Signup.css'
-import {Link} from 'react-router-dom'
+import {Link,useHistory} from 'react-router-dom'
 import {FaEnvelope,FaLock} from 'react-icons/fa';
 function SignIn() {
+    const history=useHistory();
+    const Submitreq=(e)=>{
+        e.preventDefault();
+        history.push('/React-Explify/dashboard')
+    }
     return (
         <section className="signup">
         <div className="containerSign">
@@ -23,8 +28,8 @@ function SignIn() {
                        
                        
                         <div className="form-group form-button">
-                            <input type="submit" name="signup" id="signup" className="form-submit" value="Log In"/>
-                            <Link to="/signup" className="signup-image-link" style={{color:"#A9A9A9"}}>Don't Have an account</Link>
+                            <input type="submit" name="signup" id="signup" className="form-submit" value="Log In" onClick={(e)=>Submitreq(e)}/>
+                            <Link to="/React-Explify/signup" className="signup-image-link" style={{color:"#A9A9A9"}}>Don't Have an account</Link>
                         </div>
                     </form>
                 </div>
