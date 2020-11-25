@@ -62,7 +62,7 @@ function Footers() {
             <div className="form">
               
               <h4>Send us a message</h4>
-              <p>Eos ipsa est voluptates. Nostrum nam libero ipsa vero. Debitis quasi sit eaque numquam similique commodi harum aut temporibus.</p>
+              
               <form action="" method="post" role="form" className="contactForm">
                 <div className="form-group">
                   <input type="text" name="name" className="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />

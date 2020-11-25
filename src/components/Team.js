@@ -1,5 +1,8 @@
 import React from "react";
 import { FaFacebookF, FaGithub, FaLinkedinIn } from "react-icons/fa";
+import uddeshya1 from '../../src/img/uddeshya1.jfif' 
+import talat from '../../src/img/talat.jfif' 
+import sarthak from '../../src/img/sarthak.jfif' 
 function Team() {
   return (
     <section id="team" className="section-bg">
@@ -18,14 +21,14 @@ function Team() {
           <div className="col-lg-3 col-md-6 wow fadeInUp">
             <div className="member">
               <img
-                src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+                src={uddeshya1}
                 className="img-fluid"
                 alt=""
               />
               <div className="member-info">
                 <div className="member-info-content">
-                  <h4>Walter White</h4>
-                  <span>Chief Executive Officer</span>
+                  <h4>Uddeshya Verma</h4>
+                  <span>FOUNDER</span>
                   <div className="social">
                     <a href="" style={{ padding: "10px" }}>
                       <FaFacebookF />
@@ -46,14 +49,14 @@ function Team() {
           <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div className="member">
               <img
-                src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+                src={sarthak}
                 className="img-fluid"
                 alt=""
               />
               <div className="member-info">
                 <div className="member-info-content">
-                  <h4>Sarah Jhonson</h4>
-                  <span>Product Manager</span>
+                  <h4>Sarthak Dixit</h4>
+                  <span>Chief executive Officer</span>
                   <div className="social">
                     <a href="" style={{ padding: "10px" }}>
                       <FaFacebookF />
@@ -74,14 +77,14 @@ function Team() {
           <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div className="member">
               <img
-                src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+                src={talat}
                 className="img-fluid"
                 alt=""
               />
               <div className="member-info">
                 <div className="member-info-content">
-                  <h4>William Anderson</h4>
-                  <span>CTO</span>
+                  <h4>Talat Misbah</h4>
+                  <span>Co-Founder</span>
                   <div className="social">
                     <a href="" style={{ padding: "10px" }}>
                       <FaFacebookF />
@@ -99,33 +102,8 @@ function Team() {
             </div>
           </div>
 
-          <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div className="member">
-              <img
-                src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
-                className="img-fluid"
-                alt=""
-              />
-              <div className="member-info">
-                <div className="member-info-content">
-                  <h4>Amanda Jepson</h4>
-                  <span>Accountant</span>
-                  <div className="social">
-                    <a href="" style={{ padding: "10px" }}>
-                      <FaFacebookF />
-                    </a>
-                    <a href="" style={{ padding: "10px" }}>
-                      <FaGithub />
-                    </a>
-
-                    <a href="" style={{ padding: "10px" }}>
-                      <FaLinkedinIn />
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+          
+            
         </div>
       </div>
     </section>

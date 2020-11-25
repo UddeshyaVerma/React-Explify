@@ -13,7 +13,7 @@ function IntroSection() {
               <span>Amplify.Expertise</span>
             </h2>
             <div>
-              <Link to="/React-Explify/GetStarted" className="btn-get-started scrollto" >
+              <Link to="/GetStarted" className="btn-get-started scrollto" >
                 Get Started
               </Link>
             </div>

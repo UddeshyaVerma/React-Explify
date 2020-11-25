@@ -11,13 +11,11 @@ function Features() {
             <img src={feature1} className="img-fluid" alt=""/>
           </div>
           <div className="col-lg-6 wow fadeInUp pt-5 pt-lg-0">
-            <h4>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h4>
+            <h4>EXPLIFY offers a Basic account for anyone who wants to create and maintain a professional profile online.</h4>
             <p>
-              Ipsum in aspernatur ut possimus sint. Quia omnis est occaecati possimus ea. Quas molestiae perspiciatis occaecati qui rerum. Deleniti quod porro sed quisquam saepe. Numquam mollitia recusandae non ad at et a.
+            Using the basic account, you can maintain a trusted professional network, find and reconnect with your peers, build a work oriented identity and obtain recommendations from upper heirarchy.
             </p>
-            <p>
-              Ad vitae recusandae odit possimus. Quaerat cum ipsum corrupti. Odit qui asperiores ea corporis deserunt veritatis quidem expedita perferendis. Qui rerum eligendi ex doloribus quia sit. Porro rerum eum eum.
-            </p>
+            
           </div>
         </div>
 
@@ -27,16 +25,14 @@ function Features() {
           </div>
 
           <div className="col-lg-6 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1">
-            <h4>Neque saepe temporibus repellat ea ipsum et. Id vel et quia tempora facere reprehenderit.</h4>
+            <h4>Blogging Interface</h4>
             <p>
-             Delectus alias ut incidunt delectus nam placeat in consequatur. Sed cupiditate quia ea quis. Voluptas nemo qui aut distinctio. Cumque fugit earum est quam officiis numquam. Ducimus corporis autem at blanditiis beatae incidunt sunt. 
+            Drafting creative content and publishing it on your web account is the most influencing way to create a powerful presence of your brand.
             </p>
             <p>
-              Voluptas saepe natus quidem blanditiis. Non sunt impedit voluptas mollitia beatae. Qui esse molestias. Laudantium libero nisi vitae debitis. Dolorem cupiditate est perferendis iusto.
+            Earlier, brands used LinkedIn for sharing their posts and other content. But now, the easy-to-use LinkedIn editor allows users to create a blog post and articles on its interface.
             </p>
-            <p>
-              Eum quia in. Magni quas ipsum a. Quis ex voluptatem inventore sint quia modi. Numquam est aut fuga mollitia exercitationem nam accusantium provident quia.
-            </p>
+            
           </div>
           
         </div>

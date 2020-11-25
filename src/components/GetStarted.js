@@ -13,7 +13,7 @@ function GetStarted() {
                 <p>
                     Get yourself hired from Organizations in your own field of expertise.
                 </p>
-                <Link to="/React-Explify/signin">Get
+                <Link to="/signin">Get
                     Hired</Link>
             </div>
             <div className="CardBox hoverImages">
@@ -22,7 +22,7 @@ function GetStarted() {
                 <p>
                     Hire students according to your own need and get in touch with skilled students.
                 </p>
-                <Link to="/React-Explify/signup">Start Hiring</Link>
+                <Link to="/signup">Start Hiring</Link>
             </div>
         </div>
         <div className="Gfooter">
